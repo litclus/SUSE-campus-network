@@ -1,0 +1,4 @@
+allowBuilds:
+  '@nodegui/nodegui': false
+  '@nodegui/qode': false
+  esbuild: false

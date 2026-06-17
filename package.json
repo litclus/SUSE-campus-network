@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"axios": "^1.17.0",
+		"dotenv": "^17.4.2",
+		"litils": "^1.0.1"
+	},
+	"type": "module",
+	"main": "src/main.js"
+}
