@@ -70,7 +70,7 @@ node main.js
 ## 📁 项目结构
 
 ```
-suse-campus-network/
+SUSE-campus-network/
 ├── src/
 │   ├── network.js        # 主要连接逻辑
 │   ├── EncryptPassword.js # 密码加密处理
